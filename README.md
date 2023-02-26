@@ -18,4 +18,4 @@ Since, for reasons beyond me, [Neat](https://www.neat.com/) does not have an exp
 ## Developer Notes
 This is a lot more stable and reliable than my previous WebDriver programs but still occasionally crashes for unknown reasons. Luckily progress is saved on the Excel sheet so if it crashes it just needs to be restarted and it should pick up where it left off.
 
-I had a tight timeline to complete this by so there's a couple areas I'm not totally satisfied with but it doesn't need to be pretty it just needs to work :sweat_smile:.
+I had a tight timeline to complete this by so there's a couple areas I'm not totally satisfied with but it doesn't need to be pretty it just needs to work :sweat_smile:. Also made use of the *pandas* package for the first time and I can see now why it's so popular. It works very well and can definitely see a lot of possibilies and uses for it in the future. Especially when it comes to data analysis. 
